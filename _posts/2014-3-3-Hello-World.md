@@ -1,9 +1,9 @@
----
+﻿---
 layout: post
 title:  "Test! 안녕하세요!"
 ---
 
-test,     사라지나여
+test, 웹에서는 한글을 입력하면 사라지는데 여기서는 안 사라지겠죠?
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
