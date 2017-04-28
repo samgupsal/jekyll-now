@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Test! !"
+title:  "Test! 안녕하세요!"
 ---
 
-test,    !
+test,     사라지나여
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
