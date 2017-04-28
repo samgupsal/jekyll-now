@@ -1,9 +1,10 @@
-﻿---
+---
 layout: post
 title:  "Test! 안녕하세요!"
 ---
 
-test, 웹에서는 한글을 입력하면 사라지는데 여기서는 안 사라지겠죠?
+Writemonky로 마크다운 문법을 편집하여 포스팅 테스트중
+겁나 어렵네!!!
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
