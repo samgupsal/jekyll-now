@@ -8,7 +8,9 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Now I am building Github pages, I don't know anything about computer programing.
+
+So, it's very hard to progress but I'm trying hard right now :)
 
 ### Contact me
 
