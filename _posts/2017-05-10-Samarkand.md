@@ -15,23 +15,23 @@ title: "사마르칸트 Samarkand Restaurant"
 
 음식을 보고는 걱정이 이내 사라졌다.
 
-![프러프01](http://i.imgur.com/XVKJy88.jpg)
+![프러프01](https://i.imgur.com/XVKJy88.jpg)
 
 프러프
 
-![프러프02](http://i.imgur.com/oX6vphO.jpg)
+![프러프02](https://i.imgur.com/oX6vphO.jpg)
 
-![고기만두01](http://i.imgur.com/wh37yZ9.jpg)
+![고기만두01](https://i.imgur.com/wh37yZ9.jpg)
 
 고기만두
 
-![고기만두02](http://i.imgur.com/il3WB1Y.jpg)
+![고기만두02](https://i.imgur.com/il3WB1Y.jpg)
 
-![양꼬치01](http://i.imgur.com/JDiGlgq.jpg)
+![양꼬치01](https://i.imgur.com/JDiGlgq.jpg)
 
 양꼬치
 
-![양꼬치02](http://i.imgur.com/Ly149uX.jpg)
+![양꼬치02](https://i.imgur.com/Ly149uX.jpg)
 
 나와 여자친구 모두 양고기를 사랑해서 
 
